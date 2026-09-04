@@ -11,3 +11,10 @@ henrique martins
 
 Aprender a utilizar Git e GitHub para trabalhar
 com versionamento e colaboração em equipe.
+
+
+## Tecnologias
+
+- Git
+- GitHub
+- Visual Studio Code
